@@ -1,5 +1,8 @@
 # Welcome to the Python Beginner's Workshop
 
+## Disclaimer
+The instructor notes Jupyter Notebook file is designed to be presented orally and visually. Some content and further explanation are not written, but will be covered during the presentation.
+
 ## Introduction
 My name is Abdul Amoud, I'm a software developer at Tavan Systems, Tavan Systems is a software and business solutions company based in Ottawa, ON. Although, I work as a software developer, I studied Mathematics at uOttawa. I held a few software and web development positions at multiple organizations including the Government of Canada and the Bank of Canada. I have also served as a Teachers Assistant for a coding course through Carleton University and TrilogyEd.
 
