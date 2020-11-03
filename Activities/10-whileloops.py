@@ -8,8 +8,9 @@
     6. Append the dictionary to the patients' list.
     7. Prompt if the user would like to add another patient.
     8. Once the loop is over, print the patients' list.
-    9. Store the information into a file :D
+    9. Store the patients list into a file :D
         Now I know we haven't covered this, I added this step to get you to practice your Google-Fu. 
         There isn't a course in the world that will cover all topics, so you will have to learn how to learn new topics. 
         Woah, that was meta.
+        HINT: Keep in mind that the patients list is a list and must be converted to a string before storing it in a file.
 """
