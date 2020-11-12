@@ -22,6 +22,8 @@ Keep in mind, whether you're building a website or running a machine learning al
 ### Resources
 I based this workshop on the W3Schools Python Tutorial, because I believe its very beginner friendly, and to be frank, it's where I started with Python. However, it is not the exact same as I think some parts could be explained better, some parts can be omitted and some parts should have been added. Feel free to go through their tutorial [here](https://w3schools.com/python).
 
+The instructor notes Jupyter Notebook is in the [instructor-notes.ipynb file](https://github.com/abdu997/python-workshop/blob/main/instructor-notes.ipynb).
+
 ### Let's Get Started!
 Any questions before we start? Anyone need to run to the washroom? No? Well alright then!
 *Windows users:* To find out whether your system is a 32/64 Bit. Go to `Control Panel > System and Security > System`
